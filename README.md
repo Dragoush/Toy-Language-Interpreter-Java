@@ -99,8 +99,8 @@ The JavaFX interface allows for:
 ## Demo
 
 ### Program Execution View
-![Execution View](screenshots/execution.png)
+![Execution View](screenshots/program_execution.png)
 
 ### Program Selection
-![Program Selection](screenshots/program-selection.png)
+![Program Selection](screenshots/program_selection.png)
 
