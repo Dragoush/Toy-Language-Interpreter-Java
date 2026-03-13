@@ -1,0 +1,1776 @@
+------------------------------------------
+PrgState ID=2
+Stack
+int a
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int a
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int a
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+print(b)
+
+SymTable
+a -> 17
+b -> 18
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+print(b)
+
+SymTable
+a -> 17
+b -> 18
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+
+SymTable
+a -> 17
+b -> 18
+
+Output
+18
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int a
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int a
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int a
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+print(b)
+
+SymTable
+a -> 17
+b -> 18
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+print(b)
+
+SymTable
+a -> 17
+b -> 18
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+
+SymTable
+a -> 17
+b -> 18
+
+Output
+18
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int a
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int a
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int a
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+print(b)
+
+SymTable
+a -> 17
+b -> 18
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+print(b)
+
+SymTable
+a -> 17
+b -> 18
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+
+SymTable
+a -> 17
+b -> 18
+
+Output
+18
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int a
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int a
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int a
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+print(b)
+
+SymTable
+a -> 17
+b -> 18
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+print(b)
+
+SymTable
+a -> 17
+b -> 18
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+
+SymTable
+a -> 17
+b -> 18
+
+Output
+18
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int a
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int a
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int a
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+print(b)
+
+SymTable
+a -> 17
+b -> 18
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+print(b)
+
+SymTable
+a -> 17
+b -> 18
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+
+SymTable
+a -> 17
+b -> 18
+
+Output
+18
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int a
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int a
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int a
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+int b
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+a = 2+3*5
+b = a+1
+print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+b = a+1
+print(b)
+
+SymTable
+a -> 17
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+print(b)
+
+SymTable
+a -> 17
+b -> 18
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+print(b)
+
+SymTable
+a -> 17
+b -> 18
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=2
+Stack
+
+SymTable
+a -> 17
+b -> 18
+
+Output
+18
+
+FileTable
+
+HeapTable
+

@@ -1,0 +1,984 @@
+------------------------------------------
+PrgState ID=3
+Stack
+bool a
+int v
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+bool a
+int v
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+bool a
+int v
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+int v
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+int v
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+int v
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+int v
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> true
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> true
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> true
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> true
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+v = 2
+print(v)
+
+SymTable
+a -> true
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+v = 2
+print(v)
+
+SymTable
+a -> true
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+print(v)
+
+SymTable
+a -> true
+v -> 2
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+print(v)
+
+SymTable
+a -> true
+v -> 2
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+
+SymTable
+a -> true
+v -> 2
+
+Output
+2
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+bool a
+int v
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+bool a
+int v
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+bool a
+int v
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+int v
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+int v
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+int v
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+int v
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> true
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> true
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> true
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> true
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+v = 2
+print(v)
+
+SymTable
+a -> true
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+v = 2
+print(v)
+
+SymTable
+a -> true
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+print(v)
+
+SymTable
+a -> true
+v -> 2
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+print(v)
+
+SymTable
+a -> true
+v -> 2
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+
+SymTable
+a -> true
+v -> 2
+
+Output
+2
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+bool a
+int v
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+bool a
+int v
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+bool a
+int v
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+int v
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+int v
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+int v
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+int v
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+a = true
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> false
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> true
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> true
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> true
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+if a then v = 2; else v = 3
+print(v)
+
+SymTable
+a -> true
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+v = 2
+print(v)
+
+SymTable
+a -> true
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+v = 2
+print(v)
+
+SymTable
+a -> true
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+print(v)
+
+SymTable
+a -> true
+v -> 2
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+print(v)
+
+SymTable
+a -> true
+v -> 2
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=3
+Stack
+
+SymTable
+a -> true
+v -> 2
+
+Output
+2
+
+FileTable
+
+HeapTable
+

@@ -1,0 +1,326 @@
+------------------------------------------
+PrgState ID=4
+Stack
+int a
+int b
+a = 2
+b = 3
+if a < b then print(a); else print(b)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+int a
+int b
+a = 2
+b = 3
+if a < b then print(a); else print(b)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+int a
+int b
+a = 2
+b = 3
+if a < b then print(a); else print(b)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+int b
+a = 2
+b = 3
+if a < b then print(a); else print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+int b
+a = 2
+b = 3
+if a < b then print(a); else print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+int b
+a = 2
+b = 3
+if a < b then print(a); else print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+int b
+a = 2
+b = 3
+if a < b then print(a); else print(b)
+
+SymTable
+a -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+a = 2
+b = 3
+if a < b then print(a); else print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+a = 2
+b = 3
+if a < b then print(a); else print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+a = 2
+b = 3
+if a < b then print(a); else print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+a = 2
+b = 3
+if a < b then print(a); else print(b)
+
+SymTable
+a -> 0
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+b = 3
+if a < b then print(a); else print(b)
+
+SymTable
+a -> 2
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+b = 3
+if a < b then print(a); else print(b)
+
+SymTable
+a -> 2
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+b = 3
+if a < b then print(a); else print(b)
+
+SymTable
+a -> 2
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+b = 3
+if a < b then print(a); else print(b)
+
+SymTable
+a -> 2
+b -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+if a < b then print(a); else print(b)
+
+SymTable
+a -> 2
+b -> 3
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+if a < b then print(a); else print(b)
+
+SymTable
+a -> 2
+b -> 3
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+print(a)
+
+SymTable
+a -> 2
+b -> 3
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+print(a)
+
+SymTable
+a -> 2
+b -> 3
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+
+SymTable
+a -> 2
+b -> 3
+
+Output
+2
+
+FileTable
+
+HeapTable
+

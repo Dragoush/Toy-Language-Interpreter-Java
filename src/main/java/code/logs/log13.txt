@@ -1,0 +1,15137 @@
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+int v
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+Ref (int) a
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+v = 10
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+new(a,22)
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=0 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+fork((wH(a, 30); (v = 32; (print(v); print(rH(a))))))
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=13
+Stack
+wH(a, 30)
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+
+FileTable
+
+HeapTable
+1-->22
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=12
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+v = 32
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 10
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(v)
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+print(rH(a))
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+
+FileTable
+
+HeapTable
+1-->30
+
+------------------------------------------
+PrgState ID=13
+Stack
+
+SymTable
+a -> RefValue{address=1 type=int}
+v -> 32
+
+Output
+10
+30
+32
+30
+
+FileTable
+
+HeapTable
+1-->30
+

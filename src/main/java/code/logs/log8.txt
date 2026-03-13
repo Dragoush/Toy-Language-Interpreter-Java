@@ -1,0 +1,1540 @@
+------------------------------------------
+PrgState ID=7
+Stack
+int v
+v = 4
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+int v
+v = 4
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+int v
+v = 4
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+v = 4
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+v = 4
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+v = 4
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+v = 4
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 4
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 4
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 4
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 4
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 4
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 4
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 4
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 4
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 4
+
+Output
+4
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 4
+
+Output
+4
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 3
+
+Output
+4
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 3
+
+Output
+4
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 3
+
+Output
+4
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 3
+
+Output
+4
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 3
+
+Output
+4
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 3
+
+Output
+4
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 3
+
+Output
+4
+3
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 3
+
+Output
+4
+3
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 2
+
+Output
+4
+3
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 2
+
+Output
+4
+3
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 2
+
+Output
+4
+3
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 2
+
+Output
+4
+3
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 2
+
+Output
+4
+3
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 2
+
+Output
+4
+3
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 2
+
+Output
+4
+3
+2
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 2
+
+Output
+4
+3
+2
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 1
+
+Output
+4
+3
+2
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 1
+
+Output
+4
+3
+2
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 1
+
+Output
+4
+3
+2
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 1
+
+Output
+4
+3
+2
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 1
+
+Output
+4
+3
+2
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 1
+
+Output
+4
+3
+2
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 1
+
+Output
+4
+3
+2
+1
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 1
+
+Output
+4
+3
+2
+1
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 0
+
+Output
+4
+3
+2
+1
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 0
+
+Output
+4
+3
+2
+1
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+print(v)
+
+SymTable
+v -> 0
+
+Output
+4
+3
+2
+1
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+print(v)
+
+SymTable
+v -> 0
+
+Output
+4
+3
+2
+1
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+
+SymTable
+v -> 0
+
+Output
+4
+3
+2
+1
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+int v
+v = 4
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+int v
+v = 4
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+int v
+v = 4
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+v = 4
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+v = 4
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+v = 4
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+v = 4
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 4
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 4
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 4
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 4
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 4
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 4
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 4
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 4
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 4
+
+Output
+4
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 4
+
+Output
+4
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 3
+
+Output
+4
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 3
+
+Output
+4
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 3
+
+Output
+4
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 3
+
+Output
+4
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 3
+
+Output
+4
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 3
+
+Output
+4
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 3
+
+Output
+4
+3
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 3
+
+Output
+4
+3
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 2
+
+Output
+4
+3
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 2
+
+Output
+4
+3
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 2
+
+Output
+4
+3
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 2
+
+Output
+4
+3
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 2
+
+Output
+4
+3
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 2
+
+Output
+4
+3
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 2
+
+Output
+4
+3
+2
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 2
+
+Output
+4
+3
+2
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 1
+
+Output
+4
+3
+2
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 1
+
+Output
+4
+3
+2
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 1
+
+Output
+4
+3
+2
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 1
+
+Output
+4
+3
+2
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 1
+
+Output
+4
+3
+2
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 1
+
+Output
+4
+3
+2
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 1
+
+Output
+4
+3
+2
+1
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 1
+
+Output
+4
+3
+2
+1
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 0
+
+Output
+4
+3
+2
+1
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+while (v > 0) (print(v); v = v-1)
+print(v)
+
+SymTable
+v -> 0
+
+Output
+4
+3
+2
+1
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+print(v)
+
+SymTable
+v -> 0
+
+Output
+4
+3
+2
+1
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+print(v)
+
+SymTable
+v -> 0
+
+Output
+4
+3
+2
+1
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=7
+Stack
+
+SymTable
+v -> 0
+
+Output
+4
+3
+2
+1
+0
+
+FileTable
+
+HeapTable
+

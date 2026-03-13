@@ -1,0 +1,7563 @@
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+
+Output
+
+FileTable
+test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+
+Output
+
+FileTable
+test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+
+Output
+
+FileTable
+test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+
+Output
+
+FileTable
+test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+varc -> 0
+
+Output
+
+FileTable
+test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+varc -> 0
+
+Output
+
+FileTable
+test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+varc -> 0
+
+Output
+
+FileTable
+test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+varc -> 0
+
+Output
+
+FileTable
+test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+varc -> 15
+
+Output
+
+FileTable
+test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+varc -> 15
+
+Output
+
+FileTable
+test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+varc -> 15
+
+Output
+
+FileTable
+test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+varc -> 15
+
+Output
+
+FileTable
+test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+closeRFile varf
+
+SymTable
+varf -> test.in
+varc -> 50
+
+Output
+15
+50
+
+FileTable
+test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+closeRFile varf
+
+SymTable
+varf -> test.in
+varc -> 50
+
+Output
+15
+50
+
+FileTable
+test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+
+SymTable
+varf -> test.in
+varc -> 50
+
+Output
+15
+50
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = main/java/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = main/java/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = main/java/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = main/java/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = main/java/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = main/java/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = main/java/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> main/java/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> main/java/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> main/java/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> main/java/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> main/java/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = src/main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = src/main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = src/main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = src/main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = src/main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = src/main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = src/main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+varc -> 0
+
+Output
+0
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+closeRFile varf
+
+SymTable
+varf -> src/main/java/code/test.in
+varc -> 0
+
+Output
+0
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+
+SymTable
+varf -> src/main/java/code/test.in
+varc -> 0
+
+Output
+0
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+0
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+0
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+0
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+50
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+50
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+50
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+50
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+50
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+50
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+0
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+closeRFile varf
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+0
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+
+SymTable
+varf -> java/code/test.in
+varc -> 0
+
+Output
+0
+0
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+50
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+50
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+50
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+50
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+50
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+50
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+50
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+50
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+50
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+string varf
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+varf = /main/java/code/test.in
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> 
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+openRFile varf
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+int varc
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 0
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+readFile varf into varc
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 15
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+print(varc)
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+50
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+closeRFile varf
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+50
+
+FileTable
+/main/java/code/test.in
+
+HeapTable
+
+------------------------------------------
+PrgState ID=5
+Stack
+
+SymTable
+varf -> /main/java/code/test.in
+varc -> 50
+
+Output
+15
+50
+
+FileTable
+
+HeapTable
+

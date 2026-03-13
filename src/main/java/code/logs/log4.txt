@@ -1,0 +1,83 @@
+------------------------------------------
+PrgState ID=4
+Stack
+bool a
+b = 4
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+bool a
+b = 4
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+bool a
+b = 4
+
+SymTable
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+b = 4
+
+SymTable
+a -> false
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+b = 4
+
+SymTable
+a -> false
+
+Output
+
+FileTable
+
+HeapTable
+
+------------------------------------------
+PrgState ID=4
+Stack
+
+SymTable
+a -> false
+
+Output
+
+FileTable
+
+HeapTable
+
